@@ -1,0 +1,4 @@
+# zinc
+
+A tentative to build a BittorrentSync clone using open source tools.
+Currently uses CouchDB.
